@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on network infrastructure penetration testing tools.
+- 🌱 I’m currently learning reverse engineering, writing custom shellcode, and exploit development. 
+- 📫 How to reach me: https://www.linkedin.com/in/maltaykan/
+- 👯 I’m looking to collaborate on Active Directory Red Teaming tools/C2 frameworks.
 <!--
 **MTA-tools/MTA-tools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
