@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on network infrastructure penetration testing tools.
-- 🌱 I’m currently learning reverse engineering, writing custom shellcode, and exploit development. 
+My name is Met, I'm an Oxford trained cybersecurity professional interested in all things hacking!
+
+- 🔭 I’m currently working on a tool to keep track of findings on Active Directory engagements.
+- 🌱 I’m currently learning how to build my own C2 framweork. 
 - 📫 How to reach me: https://www.linkedin.com/in/maltaykan/
 - 👯 I’m looking to collaborate on Active Directory Red Teaming tools/C2 frameworks.
 <!--
