@@ -3,7 +3,7 @@
 My name is Met, I'm an Oxford trained Cyber-Security professional/pentester interested in all things hacking!
 
 - 🔭 I’m currently working on a tool to keep track of findings on Active Directory engagements.
-- 🌱 I’m currently learning how to build my own C2 framweork. 
+- 🌱 I’m currently learning how to build my own C2 framework. 
 - 📫 How to reach me: https://www.linkedin.com/in/maltaykan/
 - 👯 I’m looking to collaborate on Active Directory Red Teaming tools/C2 frameworks.
 <!--
