@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Met, I'm an Oxford trained Cyber-Security professional/pentester interested in all things hacking!
+My name is MTA, I'm a cyber-security professional/pentester interested in all things hacking!
 
 - 🔭 I’m currently working on a tool to keep track of findings on Active Directory engagements.
 - 🌱 I’m currently learning how to build my own C2 framework. 
