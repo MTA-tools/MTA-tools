@@ -1,21 +1,8 @@
-## Hi there 👋
+## About
 
-My name is MTA, I'm a cyber-security professional/pentester interested in all things hacking!
+My name is MTA, I'm a Red Team Engineer. Take a look at my stuff if you want.
 
-- 🔭 I’m currently working on a tool to keep track of findings on Active Directory engagements.
-- 🌱 I’m currently learning how to build my own C2 framework. 
-- 📫 How to reach me: https://www.linkedin.com/in/maltaykan/
-- 👯 I’m looking to collaborate on Active Directory Red Teaming tools/C2 frameworks.
-<!--
-**MTA-tools/MTA-tools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Raven: My modular adversary simulation C2 Framework.
+- Loaders and Evasion: I specialise in AV/EDR evasion; here are some useful tools in that space.
+- BOFs: Iykyk.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
